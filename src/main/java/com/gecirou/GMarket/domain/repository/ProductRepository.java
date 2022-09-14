@@ -1,6 +1,7 @@
 package com.gecirou.GMarket.domain.repository;
 
 import com.gecirou.GMarket.domain.Product;
+import org.springframework.stereotype.Repository;
 
 import java.util.List;
 import java.util.Optional;
